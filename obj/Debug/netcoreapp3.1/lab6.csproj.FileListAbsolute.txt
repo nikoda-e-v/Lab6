@@ -1,0 +1,26 @@
+C:\Users\Admin\source\repos\unitTests_labs\lab6\obj\Debug\netcoreapp3.1\lab6.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\unitTests_labs\lab6\obj\Debug\netcoreapp3.1\lab6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\unitTests_labs\lab6\obj\Debug\netcoreapp3.1\lab6.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\unitTests_labs\lab6\obj\Debug\netcoreapp3.1\lab6.AssemblyInfo.cs
+C:\Users\Admin\source\repos\unitTests_labs\lab6\bin\Debug\netcoreapp3.1\lab6.exe
+C:\Users\Admin\source\repos\unitTests_labs\lab6\bin\Debug\netcoreapp3.1\lab6.deps.json
+C:\Users\Admin\source\repos\unitTests_labs\lab6\bin\Debug\netcoreapp3.1\lab6.runtimeconfig.json
+C:\Users\Admin\source\repos\unitTests_labs\lab6\bin\Debug\netcoreapp3.1\lab6.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\unitTests_labs\lab6\bin\Debug\netcoreapp3.1\lab6.dll
+C:\Users\Admin\source\repos\unitTests_labs\lab6\bin\Debug\netcoreapp3.1\lab6.pdb
+C:\Users\Admin\source\repos\unitTests_labs\lab6\obj\Debug\netcoreapp3.1\lab6.dll
+C:\Users\Admin\source\repos\unitTests_labs\lab6\obj\Debug\netcoreapp3.1\lab6.pdb
+C:\Users\Admin\source\repos\unitTests_labs\lab6\obj\Debug\netcoreapp3.1\lab6.genruntimeconfig.cache
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab6\bin\Debug\netcoreapp3.1\lab6.exe
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab6\bin\Debug\netcoreapp3.1\lab6.deps.json
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab6\bin\Debug\netcoreapp3.1\lab6.runtimeconfig.json
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab6\bin\Debug\netcoreapp3.1\lab6.runtimeconfig.dev.json
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab6\bin\Debug\netcoreapp3.1\lab6.dll
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab6\bin\Debug\netcoreapp3.1\lab6.pdb
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab6\obj\Debug\netcoreapp3.1\lab6.csprojAssemblyReference.cache
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab6\obj\Debug\netcoreapp3.1\lab6.AssemblyInfoInputs.cache
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab6\obj\Debug\netcoreapp3.1\lab6.AssemblyInfo.cs
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab6\obj\Debug\netcoreapp3.1\lab6.csproj.CoreCompileInputs.cache
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab6\obj\Debug\netcoreapp3.1\lab6.dll
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab6\obj\Debug\netcoreapp3.1\lab6.pdb
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab6\obj\Debug\netcoreapp3.1\lab6.genruntimeconfig.cache
